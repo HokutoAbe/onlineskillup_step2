@@ -1,0 +1,2 @@
+AddHandler application/x-httpd-php56cgi .php
+RewriteEngine Off

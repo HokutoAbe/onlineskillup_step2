@@ -1,0 +1,254 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201705 will be lost/reset.
+# Last config file used to build this data file was /virtual/www/public_html/log/awstats/cgi-bin/awstats.www.s1000.xrea.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2103                
+POS_TIME 2761                
+POS_VISITOR 6306                
+POS_DAY 6581                
+POS_DOMAIN 3438                
+POS_LOGIN 3697                
+POS_ROBOT 3852                
+POS_WORMS 4059                
+POS_EMAILSENDER 4190                
+POS_EMAILRECEIVER 4333                
+POS_SESSION 6697                
+POS_SIDER 6843                
+POS_FILETYPES 4468                
+POS_DOWNLOADS 4562                
+POS_OS 4610                
+POS_BROWSER 4704                
+POS_SCREENSIZE 4829                
+POS_UNKNOWNREFERER 4903                
+POS_UNKNOWNREFERERBROWSER 4990                
+POS_ORIGIN 5072                
+POS_SEREFERRALS 5202                
+POS_PAGEREFS 5346                
+POS_SEARCHWORDS 5536                
+POS_KEYWORDS 5688                
+POS_MISC 2425                
+POS_ERRORS 5747                
+POS_CLUSTER 3553                
+POS_SIDER_403 5833                
+POS_SIDER_400 5915                
+POS_SIDER_404 5997                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170601000029 1 0 7629342177965
+FirstTime 0
+LastTime 20170530044144
+LastUpdate 20170602042005 1 0 0 0 0
+TotalVisits 4                   
+TotalUnique 4                   
+MonthHostsKnown 3                   
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 426 426 17562
+1 0 0 0 431 431 21257
+2 0 0 0 433 433 22518
+3 0 0 0 415 415 9433
+4 1 1 4501 427 428 16877
+5 0 0 0 426 426 16126
+6 0 0 0 429 429 16879
+7 0 0 0 423 423 15345
+8 0 0 0 430 430 21954
+9 0 0 0 429 429 20488
+10 0 0 0 429 429 18570
+11 0 0 0 441 441 27165
+12 0 0 0 433 433 21762
+13 1 1 5019 463 463 27290
+14 2 2 1210 434 435 22823
+15 0 0 0 451 451 36009
+16 0 0 0 431 431 17658
+17 0 0 0 562 562 32624
+18 0 0 0 489 489 28002
+19 0 0 0 481 481 22280
+20 0 0 0 426 426 15719
+21 0 0 0 437 437 24255
+22 0 0 0 432 432 24150
+23 0 0 0 431 432 20029
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+jp 1 1 513
+ip 1 1 5019
+net 1 1 4501
+com 1 1 697
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+Wget/ 10552 515239 20170531235945 0
+no_user_agent 57 1328 20170531130809 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+php 2 1210 0 0
+cgi 2 9520 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+winxp 1 1
+win10 2 2
+win7 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+msie8.0 1 1
+chrome58.0.3029.96 1 1
+firefox53.0 1 1
+chrome58.0.3029.110 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 3 3
+From1 0 0
+From2 0 0
+From3 1 1
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://www.value-domain.com/svip.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 1 208
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 0
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 4
+softbank060137144006.bbtec.net 1 1 4501 20170530044144
+unused-133-130-5-039.interq.or.jp 1 1 513 20170524145321
+150-70-188-176.trendmicro.com 1 1 697 20170524145428
+27.20.200.169 1 1 5019 20170527132458
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 3
+20170524 2 2 1210 2
+20170527 1 1 5019 1
+20170530 1 1 4501 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 2 1210 2 2
+/jp/admin.cgi 2 9520 2 2
+END_SIDER

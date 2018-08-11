@@ -1,0 +1,283 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201806 will be lost/reset.
+# Last config file used to build this data file was /virtual/www/public_html/log/awstats/cgi-bin/awstats.www.s1006.xrea.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2103                
+POS_TIME 2761                
+POS_VISITOR 6518                
+POS_DAY 7385                
+POS_DOMAIN 3510                
+POS_LOGIN 3785                
+POS_ROBOT 3940                
+POS_WORMS 4151                
+POS_EMAILSENDER 4282                
+POS_EMAILRECEIVER 4425                
+POS_SESSION 7537                
+POS_SIDER 7744                
+POS_FILETYPES 4560                
+POS_DOWNLOADS 4706                
+POS_OS 4754                
+POS_BROWSER 4868                
+POS_SCREENSIZE 5024                
+POS_UNKNOWNREFERER 5098                
+POS_UNKNOWNREFERERBROWSER 5185                
+POS_ORIGIN 5267                
+POS_SEREFERRALS 5403                
+POS_PAGEREFS 5547                
+POS_SEARCHWORDS 5737                
+POS_KEYWORDS 5889                
+POS_MISC 2425                
+POS_ERRORS 5948                
+POS_CLUSTER 3641                
+POS_SIDER_403 6045                
+POS_SIDER_400 6127                
+POS_SIDER_404 6209                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180701000054 1 0 6827016408320
+FirstTime 0
+LastTime 20180630222439
+LastUpdate 20180702042450 1 0 0 0 0
+TotalVisits 50                  
+TotalUnique 15                  
+MonthHostsKnown 8                   
+MonthHostsUnknown 7                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 6871 586 586 112376
+1 6 6 6865 560 560 52727
+2 6 6 6865 548 548 68214
+3 7 7 8638 538 538 44777
+4 7 7 8638 540 540 42190
+5 6 6 6869 556 556 73462
+6 7 7 8638 544 544 57806
+7 7 7 8638 546 546 52666
+8 6 6 6865 554 554 63046
+9 6 6 6865 580 580 68590
+10 9 20 175145 648 650 64161
+11 8 9 29897 632 634 133709
+12 0 0 0 616 616 141367
+13 0 0 0 595 595 67088
+14 0 0 0 598 598 79251
+15 0 0 0 647 647 123505
+16 9 21 65066 642 644 493236
+17 21 23 29509 624 628 84465
+18 7 7 8643 649 649 81349
+19 8 18 32465 680 681 95219
+20 6 6 6870 635 635 59936
+21 16 38 81311 635 638 69580
+22 7 7 11849 645 646 74894
+23 6 6 6875 660 660 59316
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+ip 111 123 151601
+jp 32 77 332065
+com 16 16 26322
+net 2 3 13394
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+Wget/ 13389 1837555 20180630235943 0
+no_user_agent 1063 19358 20180630235607 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+php 155 388837 0 0
+css 6 15151 0 0
+png 46 84252 0 0
+js 6 3672 0 0
+cgi 6 31470 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+macosx11 1 1
+win10 30 17
+linux 31 9
+win7 157 134
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+chrome67.0.3396.87 7 5
+msie11.0 127 125
+chrome67.0.3396.99 34 13
+chrome36.0.1979.0 12 2
+firefox60.0 39 16
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 125 125
+From1 0 0
+From2 0 0
+From3 2 2
+From4 34 92
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://www.value-domain.com/svip.php 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 3 0
+500 3 406017
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 0
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 15
+211.125.138.202 25 25 27717 20180629100217
+211.125.138.201 23 24 27236 20180629101217
+211.125.138.203 21 21 25303 20180629083215
+211.125.138.199 18 18 20601 20180629093216
+ec2-13-113-106-158.ap-northeast-1.compute.amazonaws.com 16 16 26322 20180629073214
+211.125.138.198 11 12 12560 20180629095216
+211.125.138.200 11 11 12589 20180629090215
+kd106174029110.ppp-bb.dion.ne.jp 9 31 72668 20180628214148
+opt-101-1-174-13.client.pikara.ne.jp 8 19 56645 20180627160734
+210.191.197.74.hotcn.ne.jp 7 18 172855 20180628103056
+softbank060116001127.bbtec.net 1 1 4973 20180630222439
+14.208.173.144 2 12 25595 20180630191128
+p2323158-ipngn200802osakachuo.osaka.ocn.ne.jp 3 4 3400 20180627112113
+softbank126022070091.bbtec.net 1 2 8421 20180630160910
+179.118.236.133.dy.bbexcite.jp 5 5 26497 20180629114800
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20180627 11 23 60045 2
+20180628 75 110 319809 18
+20180629 71 71 104539 27
+20180630 4 15 38989 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 11
+5mn-15mn 1
+30s-2mn 3
+2mn-5mn 1
+15mn-30mn 3
+0s-30s 25
+30mn-1h 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/mail/src/left_main.php 112 133234 37 43
+/ftp/ 26 232951 4 4
+/mail/src/right_main.php 8 14076 3 0
+/jp/admin.cgi 6 31470 2 2
+/mail/src/webmail.php 6 6157 3 0
+/ 2 1394 0 0
+/mail/src/redirect.php 1 1025 1 1
+END_SIDER
